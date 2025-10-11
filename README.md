@@ -1,9 +1,9 @@
-# 🎮 Repositorio de Trabajos y Desafíos  
+#  Repositorio de Trabajos y Desafíos  
 **Unidad 2: Programación Orientada a Objetos para Videojuegos**
 
 ---
 
-### 👤 Autor  
+###  Autor  
 **Luis Fernando Medina Arredondo**  
 **Grupo:** GIDS5101  
 
