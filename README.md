@@ -14,7 +14,7 @@
 
 ---
 
-##  Lección 1: El control del jugador  
+##  Lección 2: Basic Gameplay
 
 ###  Resultado  
 ![Resultado del ejercicio](https://github.com/user-attachments/assets/609be90c-99b8-4364-aea5-0f88bf3ea92d)
@@ -36,6 +36,31 @@
 #### 🎥 Videos de evidencia de la lección  
 - [Video 1](https://drive.google.com/file/d/1cUSi9NswCtYYKkjRQ2ORVeuc8eHqP4JY/view?usp=sharing)  
 - [Video 2](https://drive.google.com/file/d/1xcOzlqV7DsbydxYqUsIjLomgAEhgzo6i/view?usp=sharing)
+
+---
+
+##  Lección 2: El control del jugador  
+
+###  Resultado  
+![Resultado del ejercicio](https://github.com/user-attachments/assets/609be90c-99b8-4364-aea5-0f88bf3ea92d)
+
+---
+
+### 📑 Evidencias  
+
+#### 📄 PDF de evidencia de autoría  
+
+
+---
+
+#### 📦 Package de la Lección 2  
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="16" style="vertical-align:middle; margin-right:4px;"> Descargar paquete](https://drive.google.com/file/d/1Aj9De4ySk9wdu22NYSJ6wcfFZzfwieK4/view?usp=sharing)
+
+---
+
+#### 🎥 Videos de evidencia de la lección  2
+- [Video 1](https://drive.google.com/file/d/1tuohZt6zwOmQD5b4Opv_EFSuLzww7B5o/view?usp=sharing)  
+
 
 ---
 
