@@ -1,22 +1,23 @@
-#  Repositorio de Trabajos y Desafíos  
+# Repositorio de Trabajos y Desafíos  
 **Unidad 2: Programación Orientada a Objetos para Videojuegos**
 
 ---
 
-###  Autor  
+### Autor  
 **Luis Fernando Medina Arredondo**  
 **Grupo:** GIDS5101  
 
 ---
 
-##  Tabla de Contenido  
-1. [Lección 1: El control del jugador](#lección-1-el-control-del-jugador)
+## Tabla de Contenido  
+1. [Lección 1: El control del jugador](#lección-1-el-control-del-jugador)  
+2. [Lección 2: Basic Gameplay](#lección-2-el-control-del-jugador-avanzado)
 
 ---
 
-##  Lección 2: Basic Gameplay
+## Lección 1: El control del jugador
 
-###  Resultado  
+### Resultado  
 ![Resultado del ejercicio](https://github.com/user-attachments/assets/609be90c-99b8-4364-aea5-0f88bf3ea92d)
 
 ---
@@ -39,17 +40,17 @@
 
 ---
 
-##  Lección 2: El control del jugador  
+## Lección 2: Basic Gameplay
 
-###  Resultado  
-![Resultado del ejercicio](https://github.com/user-attachments/assets/609be90c-99b8-4364-aea5-0f88bf3ea92d)
+### Resultado  
+![Resultado del ejercicio](https://github.com/user-attachments/assets/97a244a4-55e4-4130-ad97-5bddd67742e6)
 
 ---
 
 ### 📑 Evidencias  
 
 #### 📄 PDF de evidencia de autoría  
-
+*(Pendiente de agregar)*
 
 ---
 
@@ -58,9 +59,8 @@
 
 ---
 
-#### 🎥 Videos de evidencia de la lección  2
+#### 🎥 Videos de evidencia de la lección 2  
 - [Video 1](https://drive.google.com/file/d/1tuohZt6zwOmQD5b4Opv_EFSuLzww7B5o/view?usp=sharing)  
-
 
 ---
 
