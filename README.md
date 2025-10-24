@@ -16,7 +16,8 @@
 1. [Lección 1: El control del jugador](#lección-1-el-control-del-jugador)  
 2. [Lección 2: Basic Gameplay](#lección-2-basic-gameplay)  
 3. [Lección 3: Particles and Sound Effects](#lección-3-particles-and-sound-effects)  
-4. [Lección 5: User Interface](#lección-5-user-interface)
+4. [Lección 5: User Interface](#lección-5-user-interface)  
+5. [Actividades](#🧠-actividades)
 
 ---
 
@@ -104,6 +105,20 @@
 
 **🎥 Video de evidencia**  
 * [Video 1](https://drive.google.com/file/d/1QNsWWy1NFqKG1lKg_FAzwtSoLCajhvSE/view?usp=sharing)
+
+---
+
+## 🧠 Actividades
+
+### 🎮 Actividad: Multiplayer
+
+**📄 Descripción:**  
+Implementación de una mecánica multijugador en Unity utilizando Photon, explorando la sincronización de jugadores y objetos en red.
+
+---
+
+**📦 Archivo de evidencia**  
+[<img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="16" style="vertical-align:middle; margin-right:4px;"> Descargar proyecto Multiplayer](https://drive.google.com/file/d/1pNz580JB7tjdFClFiFWfSdesLf-3Vo9_/view?usp=sharing)
 
 ---
 
