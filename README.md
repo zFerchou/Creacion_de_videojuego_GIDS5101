@@ -15,7 +15,8 @@
 
 1. [Lección 1: El control del jugador](#lección-1-el-control-del-jugador)  
 2. [Lección 2: Basic Gameplay](#lección-2-basic-gameplay)  
-3. [Lección 3: Particles and Sound Effects](#lección-3-particles-and-sound-effects)
+3. [Lección 3: Particles and Sound Effects](#lección-3-particles-and-sound-effects)  
+4. [Lección 5: User Interface](#lección-5-user-interface)
 
 ---
 
@@ -82,6 +83,27 @@
 
 **🎥 Video de evidencia**  
 * [Video 1](https://drive.google.com/file/d/1HQZ3OoDnhX4wj7B2Rgxy5RNClMa3FBiK/view?usp=sharing)
+
+---
+
+## 🖥️ Lección 5: User Interface
+
+### 🧩 Resultado
+
+![Resultado del ejercicio](https://github.com/user-attachments/assets/90c56485-7053-45ba-b751-c5e4e4d23f64)
+
+---
+
+### 📑 Evidencias
+
+**📄 PDF de evidencia de autoría**  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="16" style="vertical-align:middle; margin-right:4px;"> Ver documento](https://drive.google.com/file/d/1O9y0C4vn-mX0dAyMJX3SI4R0vEBs3tYo/view?usp=sharing)
+
+**📦 Package de la Lección 5**  
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="16" style="vertical-align:middle; margin-right:4px;"> Descargar paquete](https://drive.google.com/file/d/1_hQds_8lclzVWgW8P3Lw6YMrpaWQ7tHJ/view?usp=sharing)
+
+**🎥 Video de evidencia**  
+* [Video 1](https://drive.google.com/file/d/1fJRpLlIa-9mMuFItQpUqZzZMFZgMBJJt/view?usp=sharing)
 
 ---
 
