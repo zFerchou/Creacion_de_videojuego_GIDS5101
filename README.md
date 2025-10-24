@@ -95,7 +95,7 @@
 ---
 
 ### 📑 Evidencias
-https://drive.google.com/file/d/1fJRpLlIa-9mMuFItQpUqZzZMFZgMBJJt/view?usp=sharing
+
 **📄 PDF de evidencia de autoría**  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="16" style="vertical-align:middle; margin-right:4px;"> Ver documento](https://drive.google.com/file/d/1fJRpLlIa-9mMuFItQpUqZzZMFZgMBJJt/view?usp=sharing)
 
